@@ -2,6 +2,9 @@
 
 This is a jupyter notebook application that allows users to see sort through historical trade data for bitcoin on two exchanges:  bitstamp and coinbase to apply the three stages of finanical analysis to see if any arbitrage opportunitites exist for bitcoin.
 
+Dates used were 1/1/18, 2/15/18, 3/31/18
+only the 1/1/18 generated any profits >.01 
+
 ---
 
 ## Technologies
